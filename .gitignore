@@ -17,4 +17,4 @@
 .byebug_history
 
 # I don't want to share my secret
-/config/secret.yml
+/config/secrets.yml
